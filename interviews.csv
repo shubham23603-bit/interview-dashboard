@@ -1,6 +1,6 @@
-Date,Candidate Name,Technology,Status,Feedback
-2026-02-04,Rahul,Python,Rejected,Weak in OOP
-2026-02-05,Ankit,Python,Selected,Strong fundamentals
-2026-02-06,Meena,Django,Rejected,Poor communication
-2026-02-07,Amit,Python,Rejected,Weak in DSA
-2026-02-08,Priya,Django,Selected,Excellent coding skills
+Date,Candidate Name,Technology,Interviewer,Status,Feedback
+2026-02-04,Rahul,Python,Shubham,Rejected,Weak in OOP
+2026-02-05,Ankit,Python,Shubham,Selected,Strong fundamentals
+2026-03-02,Raj,Java,Amit,Rejected,Weak in Collections
+2026-03-03,Sneha,Java,Amit,Selected,Good problem solving
+2026-03-04,Karan,Python,Shubham,Rejected,Weak in DSA
