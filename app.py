@@ -7,7 +7,7 @@ st.set_page_config(page_title="Interview Analytics Dashboard", layout="wide")
 st.title("📊 Interview Analytics Dashboard")
 
 # Load Data
-df = pd.read_excel("interviews.xlsx")
+df = pd.read_csv("interviews.csv")
 df["Date"] = pd.to_datetime(df["Date"])
 
 # ------------------ SIDEBAR FILTERS ------------------
